@@ -48,23 +48,6 @@ If no profit is possible, return `0`.
 
 * **O(1)** — No extra space used
 
----
-
-## 🧪 Example
-
-### Input
-
-```
-Enter Prices : 7 1 5 3 6 4
-```
-
-### Output
-
-```
-Maximum Profit : 5
-```
-
----
 
 ## 🧾 Code
 
